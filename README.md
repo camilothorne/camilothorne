@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @camilothorne .
 - 👀 I’m interested in NLP, ML and ontologies .
-- 🤔 I’m trying to learn CUDA and C/C++ ML kernels . 
 - 📫 How to reach me: https://camilothorne.altervista.org/ 
 - ⚡ Fun fact: I'm originally from Peru (and yes, we do eat guinea pigs 😄!)
 
